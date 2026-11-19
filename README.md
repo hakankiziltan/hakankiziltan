@@ -26,7 +26,7 @@ My goal isn't to out-type the machines — it's to understand, verify and steer 
 |---|---|---|
 | 🏨 | **Hotel intelligence platform** | Turns cameras, guest feedback and operations data into something a manager can act on — web panel, mobile app, AI workers |
 | 📣 | **AI-powered agency OS** | Takes a social media workflow from brief to publish, with AI doing the boring parts |
-| 🧠 | **Personal AI assistant** | A second brain that remembers what I forget — and a night-shift agent that keeps it tidy |
+| 🧠 | **[Personal AI assistant](https://github.com/hakankiziltan/ai-second-brain)** | A second brain that remembers what I forget — and a night-shift agent that keeps it tidy. *How I built it →* [`ai-second-brain`](https://github.com/hakankiziltan/ai-second-brain) |
 
 ### 🧰 What my agents and I build with
 
