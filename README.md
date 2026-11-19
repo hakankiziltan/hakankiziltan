@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hakankiziltan"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Building%20with-AI%20agents-F5B700?style=for-the-badge&labelColor=24292F" alt="Building with AI agents" />
-  <img src="https://komarev.com/ghpvc/?username=hakankiziltan&label=Profile%20views&color=F5B700&style=for-the-badge" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/hakankiziltan"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-F5B700?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Building%20with-AI%20agents-F5B700?style=for-the-badge&labelColor=555" alt="Building with AI agents" />
+  <img src="https://komarev.com/ghpvc/?username=hakankiziltan&label=%F0%9F%91%80%20Profile%20views&color=F5B700&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
