@@ -34,12 +34,6 @@ My goal isn't to out-type the machines — it's to understand, verify and steer 
   <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,vite,py,postgres,docker,azure,cloudflare,githubactions,git,vscode&perline=13" alt="Tech stack" />
 </p>
 
-### 🐣 Recently learned
-
-- A branch is a sticky note pointing at a commit — not a copy of the files
-- `git checkout` doesn't "check" anything. It moves you.
-- A clean merge doesn't mean the code is correct
-
 ### 📈 Activity
 
 <p align="center">
